@@ -24,7 +24,7 @@
 - Tree Map: Salary distribution by department.  
 
 2.Data Sources  
-HR data in Excel  
+HR data in Excel ,csv 
 
 Cleaned and transformed in Power Query.  
 
