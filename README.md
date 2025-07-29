@@ -77,7 +77,7 @@ Cleaned and transformed in Power Query.
 - Access to the HR dataset (included in the repository).  
 
 7.Screenshot Preview  
-Dashboard Preview =
+Dashboard Preview = https://github.com/raghu719/HR-Analysis-Dashboard/blob/main/Snapshot%20Of%20HR%20Analytics%20Dashboard.png
 
 8.Future Enhancements  
 Predictive analytics for attrition risk.  
